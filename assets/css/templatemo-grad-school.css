@@ -874,7 +874,8 @@ section.video .left-content .main-button {
 .video-item {
   position: relative;
   width: 100%;
-  max-width: 600px;
+  height: 100%;
+  max-width: 100%;
   margin: 0px auto 0;
 }
 
@@ -895,6 +896,7 @@ section.video .left-content .main-button {
   font-size: 0;
 }
 .video-item figure img {
+  height: 700px;
   width: 100%;
 }
 .video-item figure a:before {
