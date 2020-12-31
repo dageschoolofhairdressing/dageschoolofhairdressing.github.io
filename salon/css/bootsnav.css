@@ -539,7 +539,7 @@ nav.navbar.bootsnav
     -o-border-radius: 0px;
     border-radius: 0px;
     padding: 0;
-    width: 200px;
+    width: 160px;
     background: #b60e62;
     border: none;
     padding: 30px 0;
@@ -556,7 +556,7 @@ nav.navbar.bootsnav
 
   nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
     padding: 10px 15px;
-    color: #6f6f6f;
+    color: #ffffff;
   }
 
   nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:last-child > a {
@@ -641,7 +641,7 @@ nav.navbar.bootsnav
     width: 100%;
     margin-bottom: 0;
     border-bottom: none;
-    color: #6f6f6f;
+    color: #fff6f6;
   }
 
   nav.navbar.bootsnav.on ul.dropdown-menu.megamenu-content .content {
@@ -662,7 +662,7 @@ nav.navbar.bootsnav
   }
 
   nav.navbar.bootsnav.navbar-transparent.white {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: white;
     border-bottom: solid 1px #bbb;
   }
 
@@ -993,7 +993,7 @@ nav.navbar.bootsnav
     letter-spacing: 0px;
     margin-bottom: 0;
     cursor: pointer;
-    color: #6f6f6f;
+    color: #000000;
   }
 
   nav.bootsnav.navbar-sidebar
@@ -1146,12 +1146,12 @@ nav.navbar.bootsnav
     width: 100%;
     border-bottom: solid 1px #e0e0e0;
     padding: 10px 0;
-    color: #6f6f6f;
+    color: #000000;
   }
 
   nav.navbar.bootsnav ul.nav ul.dropdown-menu li a:hover,
   nav.navbar.bootsnav ul.nav ul.dropdown-menu li a:focus {
-    background-color: transparent;
+    background-color: #000000;
   }
 
   nav.navbar.bootsnav ul.nav ul.dropdown-menu ul.dropdown-menu {
@@ -1189,7 +1189,7 @@ nav.navbar.bootsnav
     margin-bottom: 0;
     cursor: pointer;
     border-bottom: solid 1px #e0e0e0;
-    color: #6f6f6f;
+    color: #ffefef;
   }
 
   nav.navbar.bootsnav .dropdown .megamenu-content .col-menu ul > li > a {
